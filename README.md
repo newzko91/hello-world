@@ -1,2 +1,5 @@
 # hello-world
-hello-world repository
+
+Hi, I'm Gabriel. 
+
+I am trying to learn coding >< 
